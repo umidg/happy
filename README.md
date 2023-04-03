@@ -17,3 +17,8 @@
 # Server
 Digital Ocean Droplet
 Digital Ocean storage
+
+
+#Google Colab
+
+https://colab.research.google.com/drive/1yDnMDMfzKqdToQHo9gNyuF0JU_vbZyRA
