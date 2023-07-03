@@ -1,4 +1,4 @@
-# Happy Scribbles [(https://devfolio.co/projects)](https://devfolio.co/projects/happy-scribbles-c308)
+# Happy Scribbles (https://devfolio.co/projects/happy-scribbles-c308)
 
 # Front End
 
